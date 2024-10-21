@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://webcloudtechnology.in/wp-content/uploads/2022/07/Web-Designing-Banner.gif" alt="MasterHead" ></div>
 
-<h1 align="center">Hi 👋, I'm Medidhi Maneesha</h1>
+<h1 align="center">Hi 👋, I'm Maneesha Medidhi</h1>
 <h3 align="center">A passionate Full Stack developer & ML Engineer from India</h3>
 
 

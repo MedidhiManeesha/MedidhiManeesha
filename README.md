@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI Brand Monitoring Tool**
 
-- 🌱 I’m currently learning **Spring Boot, Microservices**
+- 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://maneesha-portfolio.netlify.app](https://maneesha-portfolio.netlify.app)
 

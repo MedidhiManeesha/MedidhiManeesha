@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://webcloudtechnology.in/wp-content/uploads/2022/07/Web-Designing-Banner.gif" alt="MasterHead" ></div>
 
 <h1 align="center">Hi 👋, I'm Maneesha Medidhi</h1>
-<h3 align="center">A passionate Full Stack developer & ML Engineer from India</h3>
+<h3 align="center">A passionate  Machine Learning Engineer & Front end developer from India</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg">

@@ -7,13 +7,13 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medidhimaneesha&label=Profile%20views&color=0e75b6&style=flat" alt="medidhimaneesha" /> </p>
 
-- 🔭 I’m currently working on **AI Brand Monitoring Tool**
+- 🔭 I’m currently working on **Advanced Driver Assistance System using Deep Learning Models**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **Computer Vision & Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://maneesha-portfolio.netlify.app](https://maneesha-portfolio.netlify.app)
 
-- 💬 Ask me about **Javascript, Reactjs, Java**
+- 💬 Ask me about **Python, AI, Machine Learning, JavaScript, React**
 
 - 📫 How to reach me **maneesha4226@gmail.com**
 

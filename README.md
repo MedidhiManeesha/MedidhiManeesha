@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **maneesha4226@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PFkSXrh9ywCMEeHYaAIV0neTr5ILePeX/view](https://drive.google.com/file/d/1PFkSXrh9ywCMEeHYaAIV0neTr5ILePeX/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

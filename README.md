@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Computer Vision & Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://maneesha-portfolio.netlify.app](https://maneesha-portfolio.netlify.app)
-
 - 💬 Ask me about **Python, AI, Machine Learning, JavaScript, React**
 
 - 📫 How to reach me **maneesha4226@gmail.com**

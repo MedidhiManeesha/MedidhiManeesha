@@ -1,17 +1,17 @@
 <div align="center"> <img src="https://webcloudtechnology.in/wp-content/uploads/2022/07/Web-Designing-Banner.gif" alt="MasterHead" ></div>
 
 <h1 align="center">Hi 👋, I'm Maneesha Medidhi</h1>
-<h3 align="center">A passionate  Machine Learning Engineer & Front end developer from India</h3>
+<h3 align="center">A passionate Java Full Stack Developer & AI-ML Enthusiast from India</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medidhimaneesha&label=Profile%20views&color=0e75b6&style=flat" alt="medidhimaneesha" /> </p>
 
-- 🔭 I’m currently working on **Advanced Driver Assistance System using Deep Learning Models**
+- 🔭 I’m currently working on **Career Portal - Java Spring Boot App**
 
-- 🌱 I’m currently learning **Computer Vision & Deep Learning**
+- 🌱 I’m currently learning **Spring Boot & AWS**
 
-- 💬 Ask me about **Python, AI, Machine Learning, JavaScript, React**
+- 💬 Ask me about ** Java, React, Python, AI, Machine Learning, JavaScript**
 
 - 📫 How to reach me **maneesha4226@gmail.com**
 
@@ -27,6 +27,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+  
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
@@ -65,10 +70,6 @@
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
   
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 

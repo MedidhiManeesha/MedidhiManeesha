@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ML Restaurant inventory forecasting**
 
-- 🌱 I’m currently learning ** Gen AI & python **
+- 🌱 I’m currently learning **Gen AI & python**
 
 - 💬 Ask me about **React, Python, AI, Machine Learning, JavaScript**
 

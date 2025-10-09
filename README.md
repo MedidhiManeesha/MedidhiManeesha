@@ -7,11 +7,11 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medidhimaneesha&label=Profile%20views&color=0e75b6&style=flat" alt="medidhimaneesha" /> </p>
 
-- 🔭 I’m currently working on **Career Portal - Java Spring Boot App**
+- 🔭 I’m currently working on **ML Restaurant inventory forecasting**
 
-- 🌱 I’m currently learning **Spring Boot & AWS**
+- 🌱 I’m currently learning ** Gen AI & python **
 
-- 💬 Ask me about ** Java, React, Python, AI, Machine Learning, JavaScript**
+- 💬 Ask me about **React, Python, AI, Machine Learning, JavaScript**
 
 - 📫 How to reach me **maneesha4226@gmail.com**
 

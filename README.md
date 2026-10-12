@@ -5,7 +5,6 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medidhimaneesha&label=Profile%20views&color=0e75b6&style=flat" alt="medidhimaneesha" /> </p>
 
 - 💬 Ask me about **React, Python, AI, Machine Learning, JavaScript**
 
